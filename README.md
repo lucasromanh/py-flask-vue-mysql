@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/lucasromanh/py-flask-vue-mysql.git
-cd flask-crud-contacts-app
+cd py-flask-vue-mysql.git
 pip install -r requirements.txt
 python app/main.py
 ```
